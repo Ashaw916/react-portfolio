@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Organize",
+    "imgName": "{organize}",
+    "github": "https://github.com/Ashaw916/Organize2.0",
+    "url": "https://organize-demo.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "Organize v1",
+    "imgName": "organizev1",
+    "github": "https://github.com/Ashaw916/Organize_old",
+    "url": "https://stmayfield-organize.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Trail Locator",
+    "imgName": {
+      "src": "trailLocator"
+    },
+    "github": "https://github.com/Ashaw916/trail-locator",
+    "url": "https://ashaw916.github.io/trail-locator/"
+  },
+  {
+    "id": 4,
+    "name": "Workout Tracker",
+    "imgName": "workoutTracker",
+    "github": "https://github.com/Ashaw916/Workout-Tracker",
+    "url": "https://ashaw916-workout-tracker.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "imgName": "weatherDashboard",
+    "github": "https://github.com/Ashaw916/weather_dashboard",
+    "url": "https://ashaw916.github.io/weather_dashboard/"
+  },
+  {
+    "id": 6,
+    "name": "First Portfolio",
+    "imgName": "firstPortfolio",
+    "github": "https://github.com/Ashaw916/portfolio",
+    "url": "https://ashaw916.github.io/portfolio/"
+  }
+]
