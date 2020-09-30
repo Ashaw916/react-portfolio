@@ -1,16 +1,16 @@
 import React from "react";
 
-const Mailto = ({ email, subject, body, children }) => {
-  return (
-    <a
-      href={`mailto:${email}?subject=${
-        encodeURIComponent(subject) || ""
-      }&body=${encodeURIComponent(body) || ""}`}
-    >
-      {children}
-    </a>
-  );
-};
+// const Mailto = ({ email, subject, body, children }) => {
+//   return (
+//     <a
+//       href={`mailto:${email}?subject=${
+//         encodeURIComponent(subject) || ""
+//       }&body=${encodeURIComponent(body) || ""}`}
+//     >
+//       {children}
+//     </a>
+//   );
+// };
 
 function Contact() {
   return (
