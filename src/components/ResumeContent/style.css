@@ -49,6 +49,9 @@
 #resume > div > ul > li:nth-child(2) > h3 {
   color: rgb(122, 153, 93);
 }
+#resume > div > ul > li:nth-child(2) > h4 {
+  color: rgb(122, 153, 93);
+}
 #resume > div > ul {
   padding: 1rem;
   margin: 3rem auto auto auto;

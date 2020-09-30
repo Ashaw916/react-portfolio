@@ -30,19 +30,19 @@ const experience = [
       "Folowing Instructions",
     ],
   },
-  {
-    id: "3",
-    name: "Monks Cellar",
-    position: "Prep Cook",
-    start: "05/13/2018",
-    end: "03/20/2019",
-    skills: [
-      "Time Management",
-      "Quality control",
-      "Folowing Instructions",
-      "Multitasking",
-    ],
-  },
+  // {
+  //   id: "3",
+  //   name: "Monks Cellar",
+  //   position: "Prep Cook",
+  //   start: "05/13/2018",
+  //   end: "03/20/2019",
+  //   skills: [
+  //     "Time Management",
+  //     "Quality control",
+  //     "Folowing Instructions",
+  //     "Multitasking",
+  //   ],
+  // },
   // {
   //   id: "4",
   //   name: "Pinelands Preservations",
@@ -56,6 +56,33 @@ const experience = [
 function ResumeContent() {
   return (
     <div className="container" id="resume">
+      <h1>My Education</h1>
+      <div className="row ">
+        <ul>
+          <li>
+            <h2>UC Davis</h2>
+          </li>
+          <li>
+            <h5>Field of Study</h5>
+          </li>
+          <li>
+            <h4>Full Stak Web Developer Bootcamp</h4>
+          </li>
+          <li>2020 - 2020</li>
+        </ul>
+        <ul>
+          <li>
+            <h2>Sacramento City Collage</h2>
+          </li>
+          <li>
+            <h5>Field of Study</h5>
+          </li>
+          <li>
+            <h4>Mechanical Engineering, Web Development</h4>
+          </li>
+          <li>2014 - 2018</li>
+        </ul>
+      </div>
       <h1>My Experience</h1>
       <div className="row ">
         {experience.map((job) => (
