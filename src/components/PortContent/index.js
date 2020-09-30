@@ -55,9 +55,9 @@ function PortContent(props) {
   return (
     <div className="row ">
       {projectPhotos.map((prjct) => (
-        <div className="portCard">
+        <div className="portCard" key={prjct.id}>
           <h2>{prjct.name}</h2>
-          <ul key={prjct.id}>
+          <ul>
             <li></li>
             <li>
               <a href={prjct.github}>GitHub</a>

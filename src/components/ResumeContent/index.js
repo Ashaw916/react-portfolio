@@ -73,7 +73,7 @@ function ResumeContent() {
               </h3>
             </li>
             {job.skills.map((skl, i) => (
-              <ul key={skl.i}>
+              <ul key={(skl.id, i)}>
                 <li>
                   <h4>{skl}</h4>
                 </li>

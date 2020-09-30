@@ -18,7 +18,7 @@ function Content() {
     <div className="container ">
       <div className="about-cont">
         <div className="row ">
-          <div classNAme="col-md-12 ">
+          <div>
             <h1 className="heading ">Aaron Young</h1>
             {/* </div> */}
             {/* </div> */}
@@ -41,7 +41,7 @@ function Content() {
           </div>
 
           <div className="row">
-            <card className="langCard">
+            <div className="langCard">
               <img
                 className="devLogosq"
                 src={html}
@@ -78,7 +78,7 @@ function Content() {
               />
               <img className="devLogo" src={mern} alt="coding language logo" />
               {/* <img className="devLogo" src={pwa} alt="coding language logo" /> */}
-            </card>
+            </div>
           </div>
         </div>
       </div>
