@@ -30,7 +30,7 @@ function Nav() {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#resume">
-                Resume
+                Experience
               </a>
             </li>
             <li className="nav-item">

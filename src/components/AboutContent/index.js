@@ -18,12 +18,12 @@ function Content() {
     <div className="container ">
       <div className="about-cont">
         <div className="row ">
-          <div classNAme="col-md-6">
+          <div classNAme="col-md-12 ">
             <h1 className="heading ">Aaron Young</h1>
-          </div>
-        </div>
-        <div className="row">
-          <div classNAme="col-md-4">
+            {/* </div> */}
+            {/* </div> */}
+            {/* <div className="row"> */}
+            {/* <div classNAme="col-md-12"> */}
             <img
               className="profilePicture"
               src={profilePicture}

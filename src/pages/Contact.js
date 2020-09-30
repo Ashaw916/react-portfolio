@@ -18,6 +18,7 @@ function Contact() {
       <div className="col-md-4"></div>
       <div className="col-md-4">
         <a
+          id="contact"
           className="mailTo"
           href="mailto:a.s.young530@gmail.com?subject=Portfolio"
           target="_blank"

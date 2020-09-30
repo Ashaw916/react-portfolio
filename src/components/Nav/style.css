@@ -9,6 +9,7 @@
   -moz-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
   align-content: center;
+  border-radius: 1rem;
 }
 #navbarNavDropdown > ul > li > a {
   color: white;

@@ -11,9 +11,13 @@
 }
 .container {
   text-align: center;
+  align-content: center;
   /* border: 1px solid white; */
 }
 .about-cont {
+  display: flex;
+  align-content: center;
+  text-align: center;
   border-radius: 1rem;
   /* border: 1px solid white; */
   background-color: rgb(53, 53, 53);
@@ -24,7 +28,10 @@
   box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
 }
 .heading {
-  margin: 10rem 0 0 10rem;
+  /* display: flex; */
+  align-content: center;
+  text-align: center;
+  margin: 10rem;
   color: rgb(204, 204, 204);
 
   /* border: 1px solid white; */
@@ -39,9 +46,9 @@
   margin: auto;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  -webkit-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
-  box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
+  -moz-box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
+  box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
 }
 .para {
   height: 200px;
@@ -72,11 +79,12 @@
   margin: 4rem;
   align-content: center;
   text-align: center;
+  border: 1px solid rgb(48, 48, 48);
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
-  -webkit-box-shadow: inset 2px 2px 16px 2px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: inset 2px 2px 16px 2px rgba(0, 0, 0, 0.75);
-  box-shadow: inset 2px 2px 16px -2px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: inset 2px 2px 16px 2px rgba(36, 36, 36, 0.75);
+  -moz-box-shadow: inset 2px 2px 16px 2px rgba(36, 36, 36, 0.75);
+  box-shadow: inset 2px 2px 16px -2px rgba(36, 36, 36, 0.75);
   /* box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); */
   border-radius: 1rem;
 }
