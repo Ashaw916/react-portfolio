@@ -1,0 +1,95 @@
+.root {
+  display: flex;
+  align-content: center;
+  /* border: 1px solid white; */
+  margin: 2rem;
+}
+.center {
+  align-content: center;
+  margin: 5rem;
+  /* border: 1px solid white; */
+}
+.container {
+  text-align: center;
+  align-content: center;
+  /* border: 1px solid white; */
+}
+.about-cont {
+  display: flex;
+  align-content: center;
+  text-align: center;
+  border-radius: 1rem;
+  /* border: 1px solid white; */
+  background-color: rgb(53, 53, 53);
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  -webkit-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+}
+.heading {
+  /* display: flex; */
+  align-content: center;
+  text-align: center;
+  margin: 10rem;
+  color: rgb(204, 204, 204);
+
+  /* border: 1px solid white; */
+}
+
+.paper {
+  height: 200px;
+  width: 80%;
+  /* border: 1px solid green; */
+  display: flex;
+  width: 80%;
+  margin: auto;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  -webkit-box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
+  -moz-box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
+  box-shadow: 10px 10px 16px -8px rgba(36, 36, 36, 0.75);
+}
+.para {
+  height: 200px;
+  width: 100%;
+  /* border: 1px solid rgb(204, 204, 204); */
+  color: rgb(204, 204, 204);
+
+  padding: 4rem;
+}
+.devLogo {
+  height: 100px;
+  width: 250px;
+  margin: 2rem;
+}
+.devLogosq {
+  height: 100px;
+  width: 100px;
+  margin: 2rem;
+}
+.devLogo1 {
+  height: 100px;
+  width: 120px;
+  margin: 2rem;
+}
+.langCard {
+  background-color: rgb(99, 99, 99);
+  border-radius: 1rem;
+  margin: 4rem;
+  align-content: center;
+  text-align: center;
+  border: 1px solid rgb(48, 48, 48);
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  -webkit-box-shadow: inset 2px 2px 16px 2px rgba(36, 36, 36, 0.75);
+  -moz-box-shadow: inset 2px 2px 16px 2px rgba(36, 36, 36, 0.75);
+  box-shadow: inset 2px 2px 16px -2px rgba(36, 36, 36, 0.75);
+  /* box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); */
+  border-radius: 1rem;
+}
+
+.profilePicture {
+  height: 200px;
+  width: 200px;
+}

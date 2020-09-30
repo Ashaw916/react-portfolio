@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf592883.chunk.css",
+    "main.js": "/static/js/main.752abbac.chunk.js",
+    "main.js.map": "/static/js/main.752abbac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.871b86d0.chunk.js": "/static/js/2.871b86d0.chunk.js",
+    "static/js/2.871b86d0.chunk.js.map": "/static/js/2.871b86d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.48f96e0c274dd0c0d9db1169a13381fe.js": "/precache-manifest.48f96e0c274dd0c0d9db1169a13381fe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bf592883.chunk.css.map": "/static/css/main.bf592883.chunk.css.map",
+    "static/js/2.871b86d0.chunk.js.LICENSE.txt": "/static/js/2.871b86d0.chunk.js.LICENSE.txt",
+    "static/media/css.png": "/static/media/css.71837401.png",
+    "static/media/firstPortfolio.png": "/static/media/firstPortfolio.0f6642bd.png",
+    "static/media/html.png": "/static/media/html.fb1e7f9d.png",
+    "static/media/jquery.png": "/static/media/jquery.a5872891.png",
+    "static/media/js.png": "/static/media/js.b54fc1c9.png",
+    "static/media/mern.png": "/static/media/mern.d44d81a4.png",
+    "static/media/mongo.png": "/static/media/mongo.34a00324.png",
+    "static/media/nodejs.png": "/static/media/nodejs.528234aa.png",
+    "static/media/organize.png": "/static/media/organize.f9e3de85.png",
+    "static/media/organizev1.png": "/static/media/organizev1.64e45473.png",
+    "static/media/profile_picture.jpg": "/static/media/profile_picture.24e0f6c0.jpg",
+    "static/media/react.png": "/static/media/react.04557c1b.png",
+    "static/media/restApi.png": "/static/media/restApi.ca5b9d80.png",
+    "static/media/sql.png": "/static/media/sql.21812f6d.png",
+    "static/media/trailLocator.png": "/static/media/trailLocator.087c5076.png",
+    "static/media/weatherDashboard.png": "/static/media/weatherDashboard.9364ffbb.png",
+    "static/media/workoutTracker.png": "/static/media/workoutTracker.c0e89c5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.871b86d0.chunk.js",
+    "static/css/main.bf592883.chunk.css",
+    "static/js/main.752abbac.chunk.js"
+  ]
+}

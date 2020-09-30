@@ -1,0 +1,78 @@
+#root > div.wrapper > div:nth-child(3) > div > iframe {
+  width: 100%;
+  height: 500px;
+  margin: 5rem;
+}
+.resume {
+  width: 100%;
+  height: 500px;
+  margin: 5rem;
+}
+
+#resume {
+  display: flex-box;
+  color: rgb(204, 204, 204);
+  border-radius: 1rem;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  /* border: 1px solid white; */
+  background-color: rgb(53, 53, 53);
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  -webkit-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 50rem;
+  margin: 2rem;
+}
+
+/* .resCard {
+  display: flex;
+  border-radius: 1rem;
+  color: rgb(204, 204, 204);
+  padding: 2rem;
+  margin: 2rem;
+  align-content: center;
+  background-color: rgb(63, 63, 63);
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  -webkit-box-shadow: 0px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 16px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 10px 16px -8px rgba(0, 0, 0, 0.75);
+} */
+#resume > div > ul > li:nth-child(1) > h2 {
+  color: rgb(235, 235, 235);
+}
+#resume > div > ul > li:nth-child(2) > h3 {
+  color: rgb(122, 153, 93);
+}
+#resume > div > ul {
+  padding: 1rem;
+  margin: 3rem auto auto auto;
+  justify-content: space-between;
+}
+@media screen and (max-width: 414px) {
+  #resume {
+    display: flex-box;
+    width: auto;
+    height: auto;
+    margin: 0;
+  }
+  .resCard {
+    display: flex-box;
+  }
+}
+@media screen and (max-width: 375px) {
+  #resume {
+    display: flex-box;
+    width: auto;
+    height: auto;
+    margin: 0;
+  }
+  .resCard {
+    display: flex-box;
+  }
+}
